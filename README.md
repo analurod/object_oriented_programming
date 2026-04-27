@@ -1,6 +1,6 @@
 # Repositório de Exercícios – Programação Orientada a Objetos (POO)  
 ### Segundo Semestre de 2025
-
+[English Version Here!](https://github.com/analurod/POO/blob/master/englishversion.md)
 Este repositório contém os exercícios realizados durante a disciplina de **Programação Orientada a Objetos (POO)** no 2º semestre de 2025.  
 Cada atividade explora conceitos fundamentais da programação orientada a objetos, incluindo encapsulamento, herança, polimorfismo, regras de negócio, testes e integração com banco de dados.
 
